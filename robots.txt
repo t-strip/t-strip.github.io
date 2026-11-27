@@ -1,0 +1,10 @@
+# robots.txt for https://t-strip.github.io/
+# T-Strip - the endless terminal multiplexer
+
+User-agent: *
+Allow: /
+
+# Keep the Google Search Console verification file crawlable.
+Allow: /google26886d606ccd53a5.html
+
+Sitemap: https://t-strip.github.io/sitemap.xml
